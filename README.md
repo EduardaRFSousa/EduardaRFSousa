@@ -4,7 +4,7 @@
 💻 Passionate about **Full-Stack Development**, **Web/Mobile Applications**, and building intuitive interfaces.  
 🚀 Currently learning **React Native** and **RESTful APIs**.  
 
----
+
 
 ## What I’m Focusing On
 - Expanding knowledge in **mobile applications**. 
@@ -12,7 +12,7 @@
 - Strengthening **collaboration, communication, and adaptability**.  
 - Building a strong **network in the tech industry**.  
 
----
+
 
 ## Languages and Tools
 
@@ -23,14 +23,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
 </p>
 
----
+
 
 ## GitHub Stats
 <p align="center">
@@ -38,7 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaRFSousa&layout=compact&theme=rose_pine"/>
 </p>
 
----
+
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/eduarda-rocha-full-stack-dev)  
