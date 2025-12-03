@@ -17,14 +17,14 @@
   </table>
 </p>
 
-## ──★ Languages and Tools 🌸˚˖⋆
+## ──★ My Languages and Tools 🌸˚˖⋆
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,bootstrap,react,nodejs,firebase,vscode,figma,git,github&perline=6"/>
   </a>
 </p>
 
-## ──★ GitHub Stats 🌸˚˖⋆
+## ──★ My GitHub Stats 🌸˚˖⋆
 <p align="center">
   <img height="180em" src="https://github-readme-stats-tau-ten-zoha6y840i.vercel.app/api?username=EduardaRFSousa&show_icons=true&count_private=true&bg_color=45,f0ba3c,f02978&hide_border=true&border_radius=20&title_color=FAEED2&icon_color=FAEED2&text_color=570429"/>
 </p>
@@ -45,3 +45,16 @@
   </a>
 
 </p>
+
+<p align="center">
+  <span style="display: inline-flex; align-items: flex-start;">
+    <img src="https://i.pinimg.com/originals/59/59/f3/5959f34e3f1a18bb0f075743d51f5d14.gif"
+         width="70" height="85"
+         alt="Amy Rose Small GIF">
+    <span style="margin-left: 10px; display: inline-block; vertical-align: top;">
+      <strong>Thx for visiting my GitHub!! ⋆˙⟡</strong>
+    </span>
+  </span>
+</p>
+
+
