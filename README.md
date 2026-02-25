@@ -20,7 +20,7 @@
 ## ──★ My Languages and Tools 🌸˚˖⋆
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,bootstrap,react,nodejs,firebase,vscode,figma,git,github&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,bootstrap,react,mysql,firebase,vscode,figma,git,github&perline=6"/>
   </a>
 </p>
 
