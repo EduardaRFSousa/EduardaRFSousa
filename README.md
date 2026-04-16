@@ -11,7 +11,7 @@
         <br>
         ✦ Passionate about <strong>Full-Stack Development, Web/Mobile Applications</strong>, and building intuitive interfaces.
         <br>
-        ✦ I'm Currently learning <strong>Kotlin</strong> and <strong>PostgreSQL</strong>.
+        ✦ I'm Currently learning <strong>React</strong> and <strong>Design Patterns</strong>.
       </td>
     </tr>
   </table>
@@ -26,7 +26,7 @@
 
 ## ──★ My GitHub Stats 🌸˚˖⋆
 <p align="center">
-  <img height="200em" src="https://github-readme-stats-tau-ten-zoha6y840i.vercel.app/api?username=EduardaRFSousa&show_icons=true&count_private=true&bg_color=45,f0ba3c,f02978&hide_border=true&border_radius=20&title_color=FAEED2&icon_color=FAEED2&text_color=570429"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardaRFSousa&show_icons=true&count_private=true&bg_color=45,f0ba3c,f02978&hide_border=true&border_radius=20&title_color=FAEED2&icon_color=FAEED2&text_color=570429"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaRFSousa&show_icons=true&count_private=true&bg_color=45,f0ba3c,f02978&hide_border=true&border_radius=20&title_color=FAEED2&icon_color=FAEED2&text_color=570429" />
 </p>
 
