@@ -11,20 +11,20 @@
         <br>
         ✦ Passionate about <strong>Full-Stack Development, Web/Mobile Applications</strong>, and building intuitive interfaces.
         <br>
-        ✦ I'm Currently learning <strong>React</strong> and <strong>Design Patterns</strong>.
+        ✦ I'm Currently learning <strong>React</strong> and <strong>Azure Services</strong>.
       </td>
     </tr>
   </table>
 </p>
 
-## ──★ My Languages and Tools 🌸˚˖⋆
+<p align="center">──★ ｍｙ ｌａｎｇｕａｇｅｓ ａｎｄ ｔｏｏｌｓ ★──</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,java,spring,bootstrap,react,mysql,firebase,vscode,figma,git,github&perline=6"/>
   </a>
 </p>
 
-## ──★ Connect with me 🌸˚˖⋆
+<p align="center">──★ ｃｏｎｎｅｃｔ ｗｉｔｈ ｍｅ ★──</p>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/eduarda-rocha-full-stack-dev" target="_blank">
@@ -47,7 +47,7 @@
          width="70" height="85"
          alt="Amy Rose Small GIF">
     <span style="margin-left: 10px; display: inline-block; vertical-align: top;">
-      <strong>Thx for visiting my GitHub!! ⋆˙⟡</strong>
+      <span>𝘁𝗵𝘅 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗺𝘆 𝗴𝗶𝘁𝗵𝘂𝗯!! ⋆˙⟡</span>
     </span>
   </span>
 </p>
