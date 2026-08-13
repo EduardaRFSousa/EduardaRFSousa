@@ -20,7 +20,7 @@
 <p align="center">──★ ｍｙ ｌａｎｇｕａｇｅｓ ａｎｄ ｔｏｏｌｓ ★──</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,bootstrap,react,mysql,firebase,vscode,figma,git,github&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,java,spring,hibernate,maven,react,bootstrap,postgres,firebase,azure,postman,vscode,figma,git,github&perline=8"/>
   </a>
 </p>
 
